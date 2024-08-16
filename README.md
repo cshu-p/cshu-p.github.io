@@ -3,6 +3,7 @@ This page is an experiment on how to create my personal website using github usi
 
 # About Myself
 My email address is: czhng110@illinois.edu
+
 I ask [Google](https://www.google.com) when I don't know something.
 
 I can write python code
@@ -22,4 +23,5 @@ I am using the following code from [here](https://github.com/adam-p/markdown-her
 
 # Good Man
 Here is a character I like from Naruto
+
 ![alt text](https://github.com/cshu-p/cshu-p.github.io/blob/main/image/mightguy.jpg "MightGuy")
