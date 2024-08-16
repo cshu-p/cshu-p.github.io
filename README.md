@@ -19,3 +19,7 @@ I am using the following code from [here](https://github.com/adam-p/markdown-her
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+# Good Man
+Here is a character I like from Naruto
+![alt text](https://github.com/cshu-p/cshu-p.github.io/blob/main/image/mightguy.jpg "MightGuy")
